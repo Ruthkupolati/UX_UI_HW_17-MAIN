@@ -149,6 +149,11 @@ article button {
     font-size: 2rem;
     line-height: 2.3rem;
     border: 0;
+    opacity: 1;
+}
+
+article button:hover {
+    opacity: 0.8;
 }
 footer {
     display: flex;
